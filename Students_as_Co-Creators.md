@@ -298,7 +298,7 @@ A browser-based hidden-object game about Open Educational Resources:
 - 🌐 browser-based and free  
 - 🇩🇪 currently available in German
 
-
+![Tales of Openness – Pathways to OER](ToO_KeyArt.png)
 
 # Resources
 
